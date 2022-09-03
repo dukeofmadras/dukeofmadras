@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rakshith, Msc in Data Science and AI
+- 👋 Hi, I’m Rakshith, Data Analyst, University of Suffolk
+- 🎓 Msc in Data Science and AI 
 - 👀 I’m interested in Deep learning, data analysing, History and Tea 
-- 🌱 I’m currently learning Data science and stuffs
 - 📫 rakshithrec@gmail.com
 
 <!---
